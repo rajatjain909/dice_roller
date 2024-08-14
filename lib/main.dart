@@ -18,11 +18,11 @@ class MyApp extends StatelessWidget {
       // ),
       home: Scaffold(
         body: 
-        // GradientContainer(
-        //   Color.fromARGB(255, 26, 2, 80),
-        //   Color.fromARGB(255, 45, 7, 98),
-        // ),
-        GradientContainer.purple(),
+        GradientContainer(
+          Color.fromARGB(255, 26, 2, 80),
+          Color.fromARGB(255, 45, 7, 98),
+        ),
+        // GradientContainer.purple(),
       ),
     );
   }
