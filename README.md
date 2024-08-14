@@ -1,6 +1,6 @@
 # learning_one - dice_roller
 
-A new Flutter project.
+A new Flutter project to roll dice.
 
 ## Getting Started
 
